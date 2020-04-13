@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1877637dcd5bff5e7be7c0b2f6560c7c",
+    "revision": "742e0f6a9b9b9de0a1032723ce7dd564",
     "url": "/graph-theory/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/graph-theory/static/css/2.d788185a.chunk.css"
   },
   {
-    "revision": "1df6f86f48c7cb57b580",
+    "revision": "671eede8ef363b5e6a85",
     "url": "/graph-theory/static/css/main.7468757b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/graph-theory/static/js/2.fe5c7241.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1df6f86f48c7cb57b580",
-    "url": "/graph-theory/static/js/main.9116e663.chunk.js"
+    "revision": "671eede8ef363b5e6a85",
+    "url": "/graph-theory/static/js/main.b2bbd068.chunk.js"
   },
   {
     "revision": "2135480f79c62a455e58",
